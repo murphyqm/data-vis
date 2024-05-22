@@ -29,3 +29,7 @@ Single posts are linked below; however, often the entire website or blog is of i
 
 - [An intro to designing accessible data visualizations](https://fossheim.io/writing/posts/accessible-dataviz-design/)
 - [Accessible data viz is better data viz](https://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz)
+
+## Interactive dahsboards
+
+- [Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter: Comparing data dashboarding tools and frameworks](https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila)
